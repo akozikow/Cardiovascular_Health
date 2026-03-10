@@ -5,4 +5,7 @@ The journal article detailing the researcher's original methodology and findings
 
 The data and data description files can be found here: https://data.mendeley.com/datasets/dzz48mvjht/1
 
+"Cardiovascular_Health_Analysis.ipynb" is the the jupyter notebook covering the analysis and modeling of the data: https://github.com/akozikow/Cardiovascular_Health/blob/main/Cardiovascular_Health_Analysis.ipynb
+
+The json file containing the fitted XGBoost model is stored here: https://github.com/akozikow/Cardiovascular_Health/blob/main/xgb_cardio_model.json
 
