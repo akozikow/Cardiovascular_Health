@@ -9,3 +9,4 @@ The data and data description files can be found here: https://data.mendeley.com
 
 The json file containing the fitted XGBoost model is stored here: https://github.com/akozikow/Cardiovascular_Health/blob/main/xgb_cardio_model.json
 
+Check out my companion Streamlit at https://alexkozcardio.streamlit.app/
